@@ -4,9 +4,9 @@
 
 🎓 Bachelor in Computer Science | UCLouvain (EPL)
 
-🙎🏻‍♂️ Learn more about me [here](http://sanglierkevin.github.io/site/index.html)
+🙎🏻‍♂️ Learn more about me [here](https://sanglierkevin.github.io/site/index.html)
 
-🖥️ See my portfolio [here](http://sanglierkevin.github.io/site/portfolio.html)
+🖥️ See my portfolio [here](https://sanglierkevin.github.io/site/portfolio.html)
 
 ✉️ You can contact me at [sanglierkev@gmail.com](mailto:sanglierkev@gmail.com)
 
