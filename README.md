@@ -1,55 +1,13 @@
 💻 Computer Scientist
 ==================
-* 🇧🇪 Belgian
-* 🎓 Bachelor in computer science (from UCL)
-* 🙎🏻‍♂️ Learn more about me [here](http://sanglierkevin.github.io/site/index.html)
-* 🖥️ See my portfolio [here](http://sanglierkevin.github.io/site/portfolio.html)
-* ✉️ You can contact me at [sanglierkev@gmail.com](mailto:sanglierkev@gmail.com)
-* Other profile : [LinkedIn](https://www.linkedin.com/in/kevin-sanglier-703448234/)
+🇧🇪 Belgian
 
-## Skills
-### Programming languages
-★★★★ Python
+🎓 Bachelor in Computer Science | UCLouvain (EPL)
 
-★★★★ C
+🙎🏻‍♂️ Learn more about me [here](http://sanglierkevin.github.io/site/index.html)
 
-★★★★ C++
+🖥️ See my portfolio [here](http://sanglierkevin.github.io/site/portfolio.html)
 
-★★★★ Java
+✉️ You can contact me at [sanglierkev@gmail.com](mailto:sanglierkev@gmail.com)
 
-★★★☆ JavaScript
-
-★★★☆ Shell
-
-★★☆☆ Assembly
-
-★★☆☆ Mozart
-
-★★☆☆ Dafny
-
-### Web development and databases
-★★★☆ HTML
-
-★★★☆ CSS
-
-★★★☆ MongoDB
-
-★★☆☆ MySQL
-
-### Softwares
-★★★★ Git
-
-★★★★ LaTeX
-
-★★★★ Visual Studio Code
-
-★★★☆ IntelliJ IDEA
-
-### Operating systems and platforms
-★★★★ Linux (Debian)
-
-★★★☆ MacOS
-
-★★★☆ Windows
-
-★★☆☆ Raspberry Pi
+🔗 Other profile : [LinkedIn](https://www.linkedin.com/in/kevin-sanglier-703448234/)
