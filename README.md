@@ -39,6 +39,8 @@
 ### Softwares
 ★★★★ Git
 
+★★★★ LaTeX
+
 ★★★★ Visual Studio Code
 
 ★★★☆ IntelliJ IDEA
